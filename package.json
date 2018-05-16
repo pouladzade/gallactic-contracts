@@ -1,15 +1,15 @@
 {
-  "name": "@monax/legacy-contracts",
+  "name": "burrow-contracts",
   "description": "Library with javascript bindings for Solidity contracts.",
-  "version": "0.16.8",
+  "version": "0.16.9",
   "author": {
     "name": "Andreas Olofsson"
   },
   "bugs": {
-    "url": "https://github.com/monax/legacy-contracts.js/issues"
+    "url": "https://github.com/finterra/burrow-contracts.js/issues"
   },
   "dependencies": {
-    "@monax/legacy-db": "0.16.4",
+    "burrow-db": "0.16.4",
     "@nodeguy/generic": "3.0.0",
     "@nodeguy/type": "0.2.0",
     "bignumber.js": "debris/bignumber.js#94d7146671b9719e00a09c29b01a691bc85048c2",
@@ -40,7 +40,7 @@
   "engines": {
     "node": ">=6"
   },
-  "homepage": "https://github.com/monax/legacy-contracts.js",
+  "homepage": "https://github.com/finterra/burrow-contracts.js",
   "keywords": [
     "Burrow",
     "Hyperledger",
@@ -57,7 +57,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/monax/legacy-contracts.js"
+    "url": "https://github.com/finterra/burrow-contracts.js"
   },
   "scripts": {
     "doc": "jsdoc --configure JSDoc/conf.json --destination doc index.js lib README.md",
