@@ -1,7 +1,7 @@
 {
   "name": "burrow-contracts",
   "description": "Library with javascript bindings for Solidity contracts.",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "author": {
     "name": "Andreas Olofsson"
   },
@@ -9,7 +9,7 @@
     "url": "https://github.com/finterra/burrow-contracts.js/issues"
   },
   "dependencies": {
-    "burrow-db": "0.18.0",
+    "burrow-db": "0.18.1",
     "@nodeguy/generic": "3.0.0",
     "@nodeguy/type": "0.2.0",
     "bignumber.js": "debris/bignumber.js#94d7146671b9719e00a09c29b01a691bc85048c2",
